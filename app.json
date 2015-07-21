@@ -1,0 +1,6 @@
+{
+  "name": "Sinatra Foundation Starter",
+  "description": "A barebones Sinatra app using Foundation and Slim",
+  "repository": "https://github.com/jasontwong/sinatra-foundation",
+  "keywords": ["sinatra", "foundation", "slim"]
+}
