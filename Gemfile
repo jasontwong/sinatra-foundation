@@ -1,0 +1,11 @@
+source 'https://rubygems.org'
+ruby '2.2.1'
+
+gem 'sinatra', '~> 1.4'
+gem 'sinatra-assetpack', '~> 0.3', require: 'sinatra/assetpack'
+gem 'sinatra-partial', '~> 0.4', require: 'sinatra/partial'
+gem 'slim', '~> 3.0'
+gem 'sass', '~> 3.4'
+gem 'unicorn', '~> 4.9'
+gem 'coffee-script', '~> 2.4'
+gem 'compass', '~> 1.0'
